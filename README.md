@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá! 👀
+Sou aluna do ALURA, e estou me desenvolvendo em programação JAVA Script! 🖥🖱
+Usarei este espaço para me organizar e compartilhar meus projetos!! 🎀
 
+xoxo ᓚᘏᗢ
 <!--
 **mushroomkarlo/mushroomkarlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
